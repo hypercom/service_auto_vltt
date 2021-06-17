@@ -1,0 +1,11 @@
+1. Tải "XAMPP for Windows": https://downloadsapachefriends.global.ssl.fastly.net/8.0.7/xampp-windows-x64-8.0.7-0-VS16-installer.exe?from_af=true
+
+2. Cài đặt vào folder "C:\xampp"
+
+3. Giải nén HackAuto.zip. Copy folder "a", "volamthientuyet" và file "thoigianv.php" vào trong folder "C:\xampp\htdocs"
+
+4. Mở Notepad (Run as administrator). Vào menu File/Open... 
+- Đến folder "C:\Windows\System32\drivers\etc"
+- Mở file "hosts"
+- Thêm dòng "127.0.0.1 vlvshop.mobi"
+- Lưu lại
